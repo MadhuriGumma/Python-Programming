@@ -7,4 +7,6 @@ https://github.com/MadhuriGumma/Python-Programming/wiki/Lab-3-Description - Lab 
 
 https://github.com/MadhuriGumma/Python-Programming/wiki/InClass-Ex-3-Description ICE3
 
+https://github.com/MadhuriGumma/Python-Programming/wiki/InClass-Ex-4-Description ICE4
+
 
