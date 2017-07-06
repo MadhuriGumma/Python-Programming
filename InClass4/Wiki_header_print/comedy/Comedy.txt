@@ -1,0 +1,15 @@
+Comedy
+/w/index.php?title=Comedy&veaction=edit&section=2
+/w/index.php?title=Comedy&action=edit&section=2
+/w/index.php?title=Comedy&veaction=edit&section=3
+/w/index.php?title=Comedy&action=edit&section=3
+/w/index.php?title=Comedy&veaction=edit&section=4
+/w/index.php?title=Comedy&action=edit&section=4
+/w/index.php?title=Comedy&veaction=edit&section=6
+/w/index.php?title=Comedy&action=edit&section=6
+/w/index.php?title=Comedy&veaction=edit&section=7
+/w/index.php?title=Comedy&action=edit&section=7
+/w/index.php?title=Comedy&veaction=edit&section=8
+/w/index.php?title=Comedy&action=edit&section=8
+/w/index.php?title=Comedy&veaction=edit&section=10
+/w/index.php?title=Comedy&action=edit&section=10
