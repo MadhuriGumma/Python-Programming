@@ -10,3 +10,9 @@ https://github.com/MadhuriGumma/Python-Programming/wiki/InClass-Ex-3-Description
 https://github.com/MadhuriGumma/Python-Programming/wiki/InClass-Ex-4-Description ICE4
 
 https://github.com/MadhuriGumma/Python-Programming/wiki/Lab-4-Description - Lab 4 Description
+
+https://github.com/MadhuriGumma/Python-Programming/wiki/Lab-5-Description - Lab 5 Description
+
+https://github.com/MadhuriGumma/Python-Programming/wiki/Lab-6-Description - Lab 6 Description
+
+https://github.com/MadhuriGumma/Python-Programming/wiki/Lab-7-Description - Lab 7 Description
